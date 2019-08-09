@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://neha123:neha123@devconnector-pejfk.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtsecret":"mysecreattoken"
+}
